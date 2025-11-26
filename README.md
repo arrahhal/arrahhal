@@ -5,6 +5,8 @@
 \_,_/_/ /_/  \_,_/_//_/_//_/\_,_/_/                                       
 </pre>
 
-I'm **arrahhal**, an **IT student** and an **entry-level web developer**. Currently, I'm learning React.js and Node.js. I'm passionate about Linux and FOSS and try to spread their adoption in my local community. I'm committed to continuously learning and improving my skills.
+I'm **arrahhal**, an **IT student** and an **junior web developer** with hands-on experience React.js, Next.js and Node.js. I'm currently focused on improving my skills in both React and Node.
+
+I'm passionate about Linux and FOSS and try to spread their adoption in my local community. I'm committed to continuously learning and improving my skills.
 
 **Contact me:** &nbsp; [Email](mailto:arrahhal@proton.me)
